@@ -11,8 +11,7 @@ This project demonstrates the use of Google Cloud Vision API for image analysis 
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
-cd google-vision
+git clone https://github.com/Vincent-Tiono/google-vision-ocr.git
 ```
 
 2. Create and activate a virtual environment:
