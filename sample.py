@@ -51,5 +51,4 @@ def detect_text(path):
         return None
     
 if __name__ == "__main__":
-    detect_text("ibon.png")
-
+    detect_text("pdf_2.pdf")
